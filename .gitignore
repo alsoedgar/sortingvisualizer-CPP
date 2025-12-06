@@ -1,0 +1,14 @@
+# CLion specific
+.idea/
+cmake-build-*/
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables and Libraries
+*.exe
+*.dll
+*.lib
+*.a
+*.dylib
