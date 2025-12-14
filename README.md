@@ -1,4 +1,4 @@
-You Real-Time Interactive Sorting Visualizer in C++ using the SDL3 library!<br><br>
+Real-Time Interactive Sorting Visualizer in C++ using the SDL3 library!<br><br>
 
 User Controls:<br>
 1-5: Switch Algorithms<br>
